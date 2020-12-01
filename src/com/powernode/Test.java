@@ -6,5 +6,6 @@ public class Test {
         if(i==1){
             System.out.println("test结束");
         }
+        System.out.println("test也结束");
     }
 }
